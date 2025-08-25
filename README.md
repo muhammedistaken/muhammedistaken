@@ -12,3 +12,5 @@
 > for keeping track of my daily life -> [**@muhammedd.tsx**](https://instagram.com/muhammedd.tsx)
 
 > for my *CV* and more information about me -> [**https://muhammed.engineer**](https://muhammed.engineer) *(coming soon)*
+
+![Profile views](https://komarev.com/ghpvc/?username=muhammedistaken&color=blue)
